@@ -4,6 +4,7 @@ public class practicaJava {
     public static void main(String[] args)/* me falto poner "[]" */
     {
         System.out.println(3); // creamos un numero
+        System.out.println("Atter Basilio"); // Recordemos siemopre terminar con ";"
     }
 
 }
