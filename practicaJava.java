@@ -6,6 +6,8 @@ public class practicaJava {
         System.out.println("Atter Basilio"); // Recordemos siemopre terminar con ";"
         String variable = "hola mundo"; // creamos una variable usando string
         System.out.println(variable); // ejecutamos la varibale
+        int numero = 20; // creamos una variable usando int
+        System.out.println(numero); // ejecutamos la variable
     }
 
 }
